@@ -2,6 +2,9 @@
 
 Inspiriert vo [git auf deutsch](https://github.com/danielauener/git-auf-deutsch) hobn si auf da bsides vienna 0x7e6 a poa Spezialisten zaumdau, und a typisch österreichische Lösung gehirngsturmt.
 
+> ⚠️ Obocht!
+> Kinad a bissl Spass beinhoitn
+
 # Förderungen
 
 San beantragt.
@@ -13,7 +16,15 @@ Hoist das owa und rearlstas in dei bevorzugte schoin.
 eisstockschiassn <github raw url> | schoin
 ```
 
-# D Ö-Schoin in da Sprache
+Oder hoi das owa und schreis in dei `.bashrc`:
+
+```
+hoiowa <github raw url>
+
+schrei "source ~/.öshrc" >> .bashrc
+```
+
+# D Ö-Schoin in da Sproch
 Nochdem ma anscheinend `>`, `>>` und `|` ned aliasn kau und i sicher ned `bash` gobi (daun warads koa österreichische Lösung nimma) kinan mas nur in unserer wunderschen Sproch verwenden:
 ```
 | = pfeiffn/rearln
@@ -24,14 +35,10 @@ Nochdem ma anscheinend `>`, `>>` und `|` ned aliasn kau und i sicher ned `bash` 
 - "Najo, i hob ma die ip adressn ausm accesslog aussagröwid, zaumgschnittn und in a neiche Datei umgleit"
 ```
 
-# Beispiele
+# Jo zoag amoi
 
 ```
 $ kotz access.log | gröwin 127.0.0.1 | schneid -d ' ' -f 1 > naeh.txt
-
-$ ramzaum test.txt
-Permission Denied
-$ chef ramzaum test.txt
 
 $ erstö test
 
@@ -50,6 +57,11 @@ total 0
 drwxr-xr-x  3 root  root   96 Dec  1 17:03 .
 drwxr-xr-x  4 root  root  128 Dec  1 16:59 ..
 -rw-r--r--  1 root  root    0 Dec  1 17:03 test.txt
+
+$ ramzaum test.txt
+Permission Denied
+
+$ chef ramzaum test.txt
 
 $ gehausse
 
