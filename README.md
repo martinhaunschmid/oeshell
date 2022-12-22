@@ -2,6 +2,12 @@
 
 Inspiriert vo [git auf deutsch](https://github.com/danielauener/git-auf-deutsch) hobn si auf da bsides vienna 0x7e6 a poa Spezialisten zaumdau, und a typisch österreichische Lösung gehirngsturmt.
 
+De Spezialisten:
+- [Da Ferdl](https://github.com/daniel-haider)	
+- [Da Stüfi](https://github.com/stiefel40k)	
+- a poa mehr
+- und i
+
 > ⚠️ Obocht!
 > Kinad a bissl Spass beinhoitn
 
